@@ -125,3 +125,16 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+
+## Login
+<img width="533" alt="Screenshot 2024-04-22 at 7 42 18 PM" src="https://github.com/juanosorio0219/skills-publish-packages/assets/80568091/195b5fa6-c98a-4cf4-bcc5-8c61a4f86156">
+
+## Docker pull
+<img width="569" alt="Screenshot 2024-04-22 at 7 41 35 PM" src="https://github.com/juanosorio0219/skills-publish-packages/assets/80568091/58cb3e98-65e5-43ec-849f-f53fad93ff2d">
+
+## Docker run
+<img width="569" alt="Screenshot 2024-04-22 at 7 42 53 PM" src="https://github.com/juanosorio0219/skills-publish-packages/assets/80568091/6ac08b96-1eb6-4e26-83e4-feddf3107c84">
+
+## localhost:8080
+<img width="626" alt="Screenshot 2024-04-22 at 7 45 14 PM" src="https://github.com/juanosorio0219/skills-publish-packages/assets/80568091/cf392f55-c449-4b1c-a370-d52efaddbf69">
